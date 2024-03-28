@@ -29,7 +29,7 @@
 
       <v-app-bar-nav-icon @click="drawer = !drawer" class="white-text"></v-app-bar-nav-icon>
 
-      <v-app-bar-title class="white-text">ADIBLAR GULSHANI</v-app-bar-title>
+      <v-app-bar-title class="white-text">ADABIYOT GULSHANI</v-app-bar-title>
 
       <v-spacer></v-spacer>
     </v-app-bar>
