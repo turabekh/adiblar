@@ -3,8 +3,8 @@
     <v-navigation-drawer v-model="drawer" color="cyan darken-1" app>
       <v-list-item>
         <v-list-item-content>
-          <v-list-item-title class="text-h6 white-text"> Adiblar </v-list-item-title>
-          <v-list-item-subtitle class="white-text"> Gulshani </v-list-item-subtitle>
+          <v-list-item-title class="text-h6 white-text">ADABIYOT</v-list-item-title>
+          <v-list-item-subtitle class="white-text"> GULSHANI </v-list-item-subtitle>
         </v-list-item-content>
       </v-list-item>
 
