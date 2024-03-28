@@ -3,7 +3,7 @@
     <v-col cols="12">
         <div class="hero-section">
             <div class="title">
-                <h1>ADIBLAR GULSHANI</h1>
+                <h1>ADABIYOT GULSHANI</h1>
                 <p class="subtitle">
                   Bilim va San'at Dunyosi
                 </p>
