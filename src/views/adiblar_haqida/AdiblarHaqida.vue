@@ -3,7 +3,7 @@
     <v-row align="center" style="padding: 20px">
       <v-col class="col-md-4 col-sm-1" v-for="(adib, index) in adiblar" :key="adib.id">
         <v-card>
-          <v-img @click="showDetailsPage(adib.id)" style="cursor: pointer;" :src="adib.image"></v-img>
+          <v-img @click="showDetailsPage(adib.id)" style="cursor: pointer; height: 100%; width: 100%" :src="adib.image"></v-img>
 
           <v-card-title>{{ adib.title }}</v-card-title>
 

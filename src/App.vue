@@ -1,6 +1,6 @@
 <template>
   <v-app style="background-color: #E0E0E0 !important;">
-    <v-navigation-drawer v-model="drawer" color="cyan darken-1" app>
+    <v-navigation-drawer v-model="drawer" color="cyan darken-1" app style="min-height: 100vh;">
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title class="text-h6 white-text">ADABIYOT</v-list-item-title>
@@ -37,7 +37,7 @@
     <v-main class="full">
       <router-view></router-view>
     </v-main>
-    <v-footer fixed app color="cyan darken-3" padless class="mt-8">
+    <v-footer fixed app color="cyan darken-3" padless class="mt-8" style="z-index: 3000;">
       <v-row justify="center" no-gutters>
         <v-btn
           v-for="link in items"
