@@ -5,7 +5,7 @@
             <div class="title">
                 <h1>ADABIYOT GULSHANI</h1>
                 <p class="subtitle">
-                  BILIM VA SAN'AT DUNYOSI
+                  ADABIYOT VA SAN'AT DUNYOSI
                 </p>
             </div>
             <HeroSection />
