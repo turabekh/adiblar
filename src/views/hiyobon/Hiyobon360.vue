@@ -1,7 +1,7 @@
 <template>
   <div style="position: relative; height: 100%;">
     <div class="hide-text">
-      ADIBLAR HIYOBONI
+      ADIBLAR XIYOBONI
     </div>
     <iframe
       ref="iframe"
@@ -65,7 +65,7 @@ export default {
 }
 
 .scrolling-text::after {
-  content: 'https://uzbekistan360.uz | Adiblar hiyoboni 360 saytidan olindi';
+  content: 'https://uzbekistan360.uz saytidan olindi';
   display: inline-block;
   padding-left: 100%;
   animation: scroll 20s linear infinite;
