@@ -26,7 +26,7 @@ const routes = [
     component: AdibDetail
   },
   {
-    path: '/hiyobon360',
+    path: '/xiyobon360',
     name: 'Hiyobon360',
     component: Hiyobon360
   },

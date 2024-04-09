@@ -65,7 +65,7 @@ export default {
     items: [
       {  id: 1, title: "BOSH SAHIFA", to: "/" },
       {  id: 2, title: "ADIBLAR HAQIDA",  to: "/adiblar-haqida" },
-      {  id: 3, title: "ADIBLAR HIYOBONI 360", to: "/hiyobon360" },
+      {  id: 3, title: "ADIBLAR XIYOBONI 360", to: "/xiyobon360" },
       {  id: 5, title: "KITOBLAR", to: "/kitoblar" },
       {  id: 4, title: "TARG'IBOT", to: "/targibot" },
     ],
